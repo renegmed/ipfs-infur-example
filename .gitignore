@@ -1,0 +1,29 @@
+
+
+# dependencies
+/node_modules
+ipfs/node_modules
+ipfs/package-lock.json
+ipfs/.pnp
+ipfs/.pnp.js
+
+
+# testing
+ipfs/coverage
+
+# production
+ipfs/build
+
+# misc
+.DS_Store
+ipfs/.env.local
+ipfs/.env.development.local
+ipfs/.env.test.local
+ipfs/.env.production.local
+
+ipfs/npm-debug.log*
+ipfs/yarn-debug.log*
+ipfs/yarn-error.log*
+
+package-lock.json
+
